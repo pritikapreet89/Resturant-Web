@@ -1,0 +1,101 @@
+.menu {
+  margin-bottom: 70px;
+}
+
+.menu .heading {
+  width: 50%;
+  padding-bottom: 40px;
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.menu .heading h3 {
+  font-size: 3rem;
+  font-weight: bolder;
+  padding-bottom: 10px;
+  border-bottom: 3px solid #222;
+}
+
+.menu .heading h3 span {
+  font-weight: 100;
+  color: #ff5e14;
+}
+
+.menu .menu_P {
+  text-align: center;
+  margin: auto;
+}
+
+/**********************************************/
+.menu .row .card-text {
+  color: #7e7e7e;
+  font-size: 15px;
+}
+.menu .row .card-title{
+  color: #222;
+}
+.card-img-top {
+  height: 12rem;
+}
+
+.menu-container {
+  margin-left:8rem;
+}
+
+@media screen and (max-width:600px) {
+ 
+  .menu-container {
+    margin-left:0rem;
+  }
+
+  .menu .heading {
+    width: 90%;
+    padding-bottom: 10px;
+    
+    text-align: center;
+    margin: 40px auto;
+  }
+
+  .menu .heading h3 {
+    font-size: 2em;
+  }
+
+  .menu .heading h3 span {
+    font-weight: 100;
+    color: #ff5e14;
+
+  }
+}
+
+
+
+
+.card {
+  /*background: #222;*/
+/*  border: 1px solid #dd2476;*/
+  color: rgba(250, 250, 250, 0.8);
+  margin-bottom: 2rem;
+  transition: 0.3s;
+}
+
+ .card:hover {
+  transform: scale(1.05);
+  color: white;
+}
+
+.menu .Button-menu {
+  background-color: #ff5e14;
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  transition: all .4s ease;
+}
+
+.menu .Button-menu:hover{
+  background-color: goldenrod;
+  color: white;
+}
+
