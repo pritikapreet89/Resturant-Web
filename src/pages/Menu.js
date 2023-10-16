@@ -42,7 +42,7 @@ const Menu = () => {
         <div class="container mx-auto mt-4 ">
           <div class="row">
             <div class="col-md-4">
-              <div class="card" style={{ width: "18rem" , height:"26rem" }}>
+              <div class="card" style={{ width: "18rem" , height:"27rem" }}>
                 <img src={Bhatura} class="card-img-top" alt="..." />
                 <div class="card-body">
                   <h5 class="card-title">Bhatura</h5>
@@ -53,7 +53,7 @@ const Menu = () => {
               </div>
             </div>
             <div class="col-md-4">
-              <div class="card" style={{ width: "18rem", height:"26rem" }}>
+              <div class="card" style={{ width: "18rem", height:"27rem" }}>
                 <img src={MatherPaneer} class="card-img-top" alt="..." />
                 <div class="card-body">
                   <h5 class="card-title">Matter Paneer</h5>
@@ -64,7 +64,7 @@ const Menu = () => {
               </div>
             </div>
             <div class="col-md-4">
-              <div class="card" style={{ width: "18rem", height:"26rem" }}>
+              <div class="card" style={{ width: "18rem", height:"27rem" }}>
                 <img src={ChannaMasala} class="card-img-top" alt="..." />
                 <div class="card-body">
                   <h5 class="card-title">Channa Masala</h5>
@@ -76,7 +76,7 @@ const Menu = () => {
             </div>
 
             <div class="col-md-4">
-              <div class="card" style={{ width: "18rem", height:"26rem" }}>
+              <div class="card" style={{ width: "18rem", height:"27rem" }}>
                 <img src={AluGobi} class="card-img-top" alt="..." />
                 <div class="card-body">
                   <h5 class="card-title">AluGobi</h5>
@@ -87,7 +87,7 @@ const Menu = () => {
               </div>
             </div>
             <div class="col-md-4">
-              <div class="card" style={{ width: "18rem", height:"26rem" }}>
+              <div class="card" style={{ width: "18rem", height:"27rem" }}>
                 <img src={GulabJamun} class="card-img-top" alt="..." />
                 <div class="card-body">
                   <h5 class="card-title"> Gulab Jamun</h5>
@@ -98,7 +98,7 @@ const Menu = () => {
               </div>
             </div>
             <div class="col-md-4">
-              <div class="card" style={{ width: "18rem", height:"26rem" }}>
+              <div class="card" style={{ width: "18rem", height:"27rem" }}>
                 <img src={Kheer} class="card-img-top" alt="..." />
                 <div class="card-body">
                   <h5 class="card-title">Kheer</h5>
@@ -110,7 +110,7 @@ const Menu = () => {
             </div>
 
             <div class="col-md-4">
-              <div class="card" style={{ width: "18rem", height:"26rem" }}>
+              <div class="card" style={{ width: "18rem", height:"27rem" }}>
                 <img src={MalaiKofta} class="card-img-top" alt="..." />
                 <div class="card-body">
                   <h5 class="card-title">MalaiKofta</h5>
@@ -121,7 +121,7 @@ const Menu = () => {
               </div>
             </div>
             <div class="col-md-4">
-              <div class="card" style={{ width: "18rem", height:"26rem" }}>
+              <div class="card" style={{ width: "18rem", height:"27rem" }}>
                 <img src={Puri} class="card-img-top" alt="..." />
                 <div class="card-body">
                   <h5 class="card-title">Puri</h5>
@@ -133,7 +133,7 @@ const Menu = () => {
               </div>
             </div>
             <div class="col-md-4">
-              <div class="card" style={{ width: "18rem", height:"26rem" }}>
+              <div class="card" style={{ width: "18rem", height:"27rem" }}>
                 <img src={Paratha} class="card-img-top" alt="..." />
                 <div class="card-body">
                   <h5 class="card-title">Paratha</h5>
@@ -145,7 +145,7 @@ const Menu = () => {
             </div>
 
             <div class="col-md-4">
-              <div class="card" style={{ width: "18rem", height:"26rem" }}>
+              <div class="card" style={{ width: "18rem", height:"27rem" }}>
                 <img src={Kulfi} class="card-img-top" alt="..." />
                 <div class="card-body">
                   <h5 class="card-title">Kulfi</h5>
@@ -156,7 +156,7 @@ const Menu = () => {
               </div>
             </div>
             <div class="col-md-4">
-              <div class="card" style={{ width: "18rem", height:"26rem" }}>
+              <div class="card" style={{ width: "18rem", height:"27rem" }}>
                 <img src={Lassi} class="card-img-top" alt="..." />
                 <div class="card-body">
                   <h5 class="card-title">Lassi</h5>
@@ -167,7 +167,7 @@ const Menu = () => {
               </div>
             </div>
             <div class="col-md-4">
-              <div class="card" style={{ width: "18rem", height:"26rem" }}>
+              <div class="card" style={{ width: "18rem", height:"27rem" }}>
                 <img src={SoftDrinks} class="card-img-top" alt="..." />
                 <div class="card-body">
                   <h5 class="card-title">SoftDrinks</h5>

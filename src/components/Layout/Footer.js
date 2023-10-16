@@ -5,6 +5,8 @@ import TwitterIcon from '@material-ui/icons/Twitter';
 import GitHubIcon from '@material-ui/icons/GitHub';
 import YouTubeIcon from '@material-ui/icons/YouTube';
 import "../../styles/FooterStyles.css";
+import FastfoodIcon from '@material-ui/icons/Fastfood';
+
 
 const Footer = () => {
     return (
@@ -18,7 +20,7 @@ const Footer = () => {
                                     <i class="fas fa-map-marker-alt"></i>
                                     <div class="cta-text">
                                         <h4>Find us</h4>
-                                        <span>1010 Avenue, sw 54321, chandigarh</span>
+                                        <span>1010 Avenue, sw 54321, Burhanpur</span>
                                     </div>
                                 </div>
                             </div>
@@ -27,7 +29,7 @@ const Footer = () => {
                                     <i class="fas fa-phone"></i>
                                     <div class="cta-text">
                                         <h4>Call us</h4>
-                                        <span>9876543210 0</span>
+                                        <span>7723030617</span>
                                     </div>
                                 </div>
                             </div>
@@ -36,7 +38,7 @@ const Footer = () => {
                                     <i class="far fa-envelope-open"></i>
                                     <div class="cta-text">
                                         <h4>Mail us</h4>
-                                        <span>mail@info.com</span>
+                                        <span>pritikapreet89@gmail.com</span>
                                     </div>
                                 </div>
                             </div>
@@ -47,7 +49,11 @@ const Footer = () => {
                             <div class="col-xl-4 col-lg-4 mb-50">
                                 <div class="footer-widget">
                                     <div class="footer-logo">
-                                        <a href="index.html"><img src="" class="img-fluid" alt="logo" /></a>
+                                        <Typography color={'#ff5e14'} variant='h4' component="div" sx={{ flexGrow: 1 }}>
+
+                                            <FastfoodIcon /> GuruKrapa
+
+                                        </Typography>
                                     </div>
                                     <div class="footer-text">
                                         <p>Welcome GuruKrapa Food is Burhanpur premiere Indian resturant.
@@ -71,12 +77,12 @@ const Footer = () => {
                                         <h3>Useful Links</h3>
                                     </div>
                                     <ul>
-                                        <li><a href="#">Home</a></li>
-                                        <li><a href="#">about</a></li>
-                                        <li><a href="#">Menu</a></li>
-                                        <li><a href="#">Gallery</a></li>
-                                        <li><a href="#">Contact</a></li>
-                                        
+                                        <li><a href="/">Home</a></li>
+                                        <li><a href="/about">about</a></li>
+                                        <li><a href="/menu">Menu</a></li>
+                                        <li><a href="/gallery">Gallery</a></li>
+                                        <li><a href="/contact">Contact</a></li>
+
                                     </ul>
                                 </div>
                             </div>
@@ -94,7 +100,7 @@ const Footer = () => {
                                         <p>Saturday : 12am - 5pm</p>
                                         <p>Sunday : Closed</p>
                                     </div>
-                                   
+
                                 </div>
                             </div>
                         </div>

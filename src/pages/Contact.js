@@ -67,15 +67,15 @@ const Contact = () => {
                 <p class="card-text">
                   <div className='main'>
                     <div className='img'><img src={Location} className='location' alt='logo' /></div>
-                    <div className='word'><li>Addresss</li> <li>Tukaithad DIs (Burhanpur)</li></div>
+                    <div className='word'><li>Addresss</li> <li>1010 Avenue, sw 54321, Burhanpur</li></div>
                   </div>
                   <div className='main'>
                     <div className='img'><img src={Email} className='location' alt='logo' /></div>
-                    <div className='word'><li>Email</li> <li>resy@help.com</li></div>
+                    <div className='word'><li>Email</li> <li>pritikapreet89@gmail.com</li></div>
                   </div>
                   <div className='main'>
                     <div className='img'><img src={Call} className='location' alt='logo' /></div>
-                    <div className='word'><li>Call Us</li> <li>7723039712</li></div>
+                    <div className='word'><li>Call Us</li> <li>7723030617</li></div>
                   </div>
                 </p>
               </div>
@@ -123,12 +123,12 @@ const Contact = () => {
 
               <div class="info">
                 <div class="information">
-                <img src="img/phone.png" class="icon" alt="" />
-                  <p>92 Cherry Drive Uniondale, NY 11553</p>
+                  <img src="img/phone.png" class="icon" alt="" />
+                  <p>1010 Avenue, sw 54321, Burhanpur</p>
                 </div>
                 <div class="information">
                   <img src="img/email.png" class="icon" alt="" />
-                  <p>pritikabandhiye50gmail.com</p>
+                  <p>pritikapreet89@gmail.com</p>
                 </div>
                 <div class="information">
                   <img src="img/phone.png" class="icon" alt="" />
@@ -179,8 +179,8 @@ const Contact = () => {
                     onChange={(e) => setMessage(e.target.value)} placeholder="Order now message"></textarea>
                   <span>Message</span>
                 </div>
-                <div class='button'><input type='submit'onClick={()=>alert("Message successfully send")}  value='Send' class='btn' /></div>
-               
+                <div class='button'><input type='submit' onClick={() => alert("Message successfully send")} value='Send' class='btn' /></div>
+
 
 
               </form>

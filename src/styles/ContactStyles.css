@@ -1,5 +1,6 @@
 .container-1{
-  padding: 0px 30px;
+  /* padding: 0px 80px;*/
+  margin: 0px 80px;
   margin-bottom: 70px;
 }
 .row {
@@ -87,7 +88,11 @@
 /*********************/
 @media screen and (max-width:600px) {
   .container-1{
-    padding: 0px 10px;
+   /* padding: 0px 0px;*/
+   margin-top: 0;
+   margin-bottom: 0;
+   margin-left: 6%;
+   margin-right: 0%;
   }
    .heading{
     width: 95%;

@@ -5,7 +5,7 @@ import About from "./pages/About";
 import Gallery from "./pages/Gallery";
 import Contact from "./pages/Contact";
 import Menu from "./pages/Menu";
-import Pagenotfound from "./pages/Pagenotfound";
+//import Pagenotfound from "./pages/Pagenotfound";
 
 
 
@@ -15,15 +15,17 @@ function App() {
     <div>
      <BrowserRouter>
      <Routes>
-      <Route path="/" element={<Home/>}/>
+      <Route path="*" element={<Home/>}/>
       <Route path="/about" element={<About/>}/>
       <Route path="/gallery" element={<Gallery/>}/>
       <Route path="/contact" element={<Contact/>}/>
       <Route path="/menu" element={<Menu/>}/>
-      <Route path="*" element={<Pagenotfound/>}/>
+    
      </Routes>
      </BrowserRouter>
     </div>
   )
 }
 export default App;
+
+// <Route path="*" element={<Pagenotfound/>}/> 
