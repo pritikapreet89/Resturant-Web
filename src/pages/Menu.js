@@ -47,7 +47,7 @@ const Menu = () => {
                 <div class="card-body">
                   <h5 class="card-title">Bhatura</h5>
                   <h6 class="card-subtitle mb-2 text-muted">30$</h6>
-                  <p class="card-text">Leavened fine flour bread, deep fried. Baked in a clay oven with mesquite charcoal.</p>
+                  <p class="card-text">Leavened fine flour bread, deep fried. Baked in a clay oven with mesquite charcoal</p>
                   <Link to='/Contact'><Button className="Button-menu">ORDER NOW</Button></Link>
                 </div>
               </div>
@@ -69,7 +69,7 @@ const Menu = () => {
                 <div class="card-body">
                   <h5 class="card-title">Channa Masala</h5>
                   <h6 class="card-subtitle mb-2 text-muted">30$</h6>
-                  <p class="card-text">Channa masala is a chickpea curry originating in the India subcontainent.</p>
+                  <p class="card-text">Channa masala is a chickpea curry originatings in the India subcontainent.</p>
                   <Link to='/Contact'><Button className="Button-menu">ORDER NOW</Button></Link>
                 </div>
               </div>

@@ -56,7 +56,7 @@ const Footer = () => {
                                         </Typography>
                                     </div>
                                     <div class="footer-text">
-                                        <p>Welcome GuruKrapa Food is Burhanpur premiere Indian resturant.
+                                        <p>Welcome GuruKrapa Resturant Food is Burhanpur premiere Indian resturant.
                                             They specialize in distinct flavors and fresh ingredients at affordable prices.
                                             For some of the best food that Burhanpur, OR has to offer, give Welcome GuruKrapa
                                             FOod atry today!

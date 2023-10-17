@@ -117,7 +117,7 @@ const Contact = () => {
             <div class="contact-info">
               <h3 class="title">Contact Details:</h3>
               <p class="text">
-                Are you a food lover? If your answer is yes, then in resturant for you. We
+                Are you a food lover? If your answer is yes, then in GuruKrapa resturant for you. We
                 server foods for reasonable prices. It's awesome, we know
               </p>
 

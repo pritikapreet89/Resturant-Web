@@ -68,7 +68,7 @@ const About = () => {
                     <img variant='top' src={Thired} />
                     <div className='center'>
                       <div><h3>SPECIAL OFFERS</h3></div>
-                      <div>Take the amazing 12% OFF on All Takeaway Orders. Check out our webside and
+                      <div>Take the amazing 10% OFF on All Takeaway Orders. Check out our webside and
                         explore here special deals & offer.</div>
                     </div>
                   </div>
