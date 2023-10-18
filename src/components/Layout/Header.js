@@ -22,7 +22,7 @@ const Header = () => {
       </Typography>
       <Divider />
       <ul className="mobile-navigation">
-        <li><NavLink activeClassName='active' to={'/'}> Home</NavLink></li>
+        <li><NavLink activeClassName='active' to={'*'}> Home</NavLink></li>
         <li><NavLink to={'/menu'}>Menu </NavLink></li>
         <li><NavLink to={'/about'}>About </NavLink></li>
         <li><NavLink to={'/gallery'}>Gallery </NavLink></li>
@@ -48,7 +48,7 @@ const Header = () => {
             </Typography>
             <Box sx={{ display: { xs: "none", sm: "block" } }}>
               <ul className="navigation-menu">
-                <li><NavLink activeClassName='active' to={'/'}> Home</NavLink></li>
+                <li><NavLink activeClassName='active' to={'*'}> Home</NavLink></li>
                 <li><NavLink to={'/menu'}>Menu </NavLink></li>
                 <li><NavLink to={'/about'}>About </NavLink></li>
                 <li><NavLink to={'/gallery'}>Gallery </NavLink></li>

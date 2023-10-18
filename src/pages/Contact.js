@@ -148,7 +148,7 @@ const Contact = () => {
                   <a href="#">
                     <TwitterIcon /><i class="fab fa-instagram"></i>
                   </a>
-                  <a href="#">
+                  <a href="https://github.com/pritikapreet89">
                     <GitHubIcon /> <i class="fab fa-linkedin-in"></i>
                   </a>
                 </div>
