@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Resturant-Web/static/css/main.c2dbc230.css",
-    "main.js": "/Resturant-Web/static/js/main.4f52f5db.js",
+    "main.css": "/Resturant-Web/static/css/main.e489c109.css",
+    "main.js": "/Resturant-Web/static/js/main.22df3a48.js",
     "static/js/787.e253fc0a.chunk.js": "/Resturant-Web/static/js/787.e253fc0a.chunk.js",
     "static/media/11_.jpeg": "/Resturant-Web/static/media/11_.278f6618e3bd2ca9fd94.jpeg",
     "static/media/15_.jpeg": "/Resturant-Web/static/media/15_.1b6b642a790f89b275b2.jpeg",
@@ -48,12 +48,12 @@
     "static/media/bhatura.jpeg": "/Resturant-Web/static/media/bhatura.ad572e89eed7e71c16f3.jpeg",
     "static/media/email.jpeg": "/Resturant-Web/static/media/email.f38cd11885362e766c9b.jpeg",
     "index.html": "/Resturant-Web/index.html",
-    "main.c2dbc230.css.map": "/Resturant-Web/static/css/main.c2dbc230.css.map",
-    "main.4f52f5db.js.map": "/Resturant-Web/static/js/main.4f52f5db.js.map",
+    "main.e489c109.css.map": "/Resturant-Web/static/css/main.e489c109.css.map",
+    "main.22df3a48.js.map": "/Resturant-Web/static/js/main.22df3a48.js.map",
     "787.e253fc0a.chunk.js.map": "/Resturant-Web/static/js/787.e253fc0a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c2dbc230.css",
-    "static/js/main.4f52f5db.js"
+    "static/css/main.e489c109.css",
+    "static/js/main.22df3a48.js"
   ]
 }
